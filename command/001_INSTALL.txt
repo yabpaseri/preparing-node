@@ -1,0 +1,11 @@
+// devDependencies
+pnpm add -D typescript
+pnpm add -D @types/node eslint prettier eslint-config-prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser
+
+// devDependencies (react)
+pnpm add -D @types/react @types/react-dom eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh
+
+// dependencies (react)
+pnpm add react react-dom
+// dependencies (react ant design)
+pnpm add antd @ant-design/icons
